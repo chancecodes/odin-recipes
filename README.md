@@ -1,0 +1,1 @@
+Practice html by creating a recipes webpage.  The webpage includes three different recipes with their own html pages linked on the main index.html.  Practice concepts learned such as adding headings, paragraphs, photos, links, and more.  
